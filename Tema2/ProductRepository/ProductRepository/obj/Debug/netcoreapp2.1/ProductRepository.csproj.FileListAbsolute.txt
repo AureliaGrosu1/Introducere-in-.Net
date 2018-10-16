@@ -1,0 +1,4 @@
+C:\Users\Aurelia\Desktop\Tema2\ProductRepository\ProductRepository\obj\Debug\netcoreapp2.1\ProductRepository.csprojAssemblyReference.cache
+C:\Users\Aurelia\Desktop\Tema2\ProductRepository\ProductRepository\obj\Debug\netcoreapp2.1\ProductRepository.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia\Desktop\Tema2\ProductRepository\ProductRepository\obj\Debug\netcoreapp2.1\ProductRepository.AssemblyInfoInputs.cache
+C:\Users\Aurelia\Desktop\Tema2\ProductRepository\ProductRepository\obj\Debug\netcoreapp2.1\ProductRepository.AssemblyInfo.cs

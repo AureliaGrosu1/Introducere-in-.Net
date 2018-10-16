@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Employee",
+    "\\Employee\\Employee",
+    "\\Employee\\Employee.Test",
+    "\\Employee\\Employee.Test\\Employee.Test"
+  ],
+  "SelectedNode": "\\Employee\\Employee\\Architect.cs",
+  "PreviewInSolutionExplorer": false
+}
